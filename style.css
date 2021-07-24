@@ -150,7 +150,7 @@ h1,h2,h3,h4{
 .navbar-links{
   display: block;
   list-style: none;
-  float: right;
+  float: left;
   margin: auto;
   padding-left: 20px;
 }
